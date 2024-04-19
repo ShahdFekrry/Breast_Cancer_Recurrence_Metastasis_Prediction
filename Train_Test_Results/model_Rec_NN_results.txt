@@ -1,0 +1,17 @@
+Training Report:
+Epochs: 50
+Batch Size: 64
+Training Loss: 0.24424418807029724
+Training Accuracy: 0.9078408479690552
+
+Test Loss: 0.2539
+Test Set Accuracy: 0.9078498482704163
+Test Set Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.96      0.92       767
+           1       0.95      0.85      0.90       698
+
+    accuracy                           0.91      1465
+   macro avg       0.91      0.91      0.91      1465
+weighted avg       0.91      0.91      0.91      1465
