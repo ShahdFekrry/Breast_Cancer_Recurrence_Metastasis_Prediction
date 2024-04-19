@@ -1,0 +1,22 @@
+
+Validation Accuracy: 0.9333333333333333
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94       198
+           1       0.98      0.88      0.93       177
+
+    accuracy                           0.93       375
+   macro avg       0.94      0.93      0.93       375
+weighted avg       0.94      0.93      0.93       375
+
+Validation Accuracy: 0.9333333333333333
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94       198
+           1       0.98      0.88      0.93       177
+
+    accuracy                           0.93       375
+   macro avg       0.94      0.93      0.93       375
+weighted avg       0.94      0.93      0.93       375
